@@ -36,3 +36,15 @@ int main(){
     }
 }
 
+/*OUTPUT
+Enter size of the array: 6
+Enter size of the pattern: 2
+Enter array elements: 1
+2
+2
+3
+2
+2
+Enter the pattern: 2
+2
+Pattern found 2 times*/
