@@ -36,3 +36,13 @@ void main(){
         printf("%d ",a[i]);
     }
 }
+
+/*OUTPUT
+Enter array size: 5
+Enter element: 3
+Enter element: 6
+Enter element: 98
+Enter element: 23
+Enter element: 5
+Sorted array:
+3 5 6 23 98 */
