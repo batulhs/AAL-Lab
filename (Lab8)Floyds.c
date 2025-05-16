@@ -50,3 +50,28 @@ int main() {
     floydWarshall(graph, n);
     return 0;
 }
+
+/*OUTPUT
+Enter number of vertices: 4
+Enter adjacency matrix (use 99999 for INF):
+0
+8
+99999
+7
+3
+0
+2
+99999
+5
+99999
+0
+1
+2
+99999
+99999
+0
+Shortest distances between every pair of vertices:
+      0      8     10      7
+      3      0      2      3
+      3     11      0      1
+      2     10     12      0*/
