@@ -63,3 +63,9 @@ int main() {
     printf("Minimum cost of MST: %d\n", kruskalAlgo(5, edge));
     return 0;
 }
+
+/*OUTPUT
+Edge 2 - 3 included with weight 4
+Edge 0 - 3 included with weight 5
+Edge 0 - 1 included with weight 10
+Minimum cost of MST: 19*/
