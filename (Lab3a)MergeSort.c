@@ -47,3 +47,15 @@ int main() {
     printArray(arr, m);
     return 0;
 }
+
+/*OUTPUT
+Enter size of array: 5
+Enter array elements: 98
+34
+12
+56
+3
+Original array:
+98 34 12 56 3 
+Sorted array:
+3 12 34 56 98*/
