@@ -23,3 +23,12 @@ int main(){
         }
 }
 
+/*OUTPUT
+Enter size5
+Enter elements2
+5
+8
+2
+0
+Sorted array:
+0 2 2 5 8 */
