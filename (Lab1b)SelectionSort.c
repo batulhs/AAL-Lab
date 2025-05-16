@@ -25,3 +25,12 @@ int main(){
     }
 }
 
+/*OUTPUT
+Enter size of array: 5
+Enter elements of the array: 9
+7
+4
+2
+0
+Sorted array:
+0 2 4 7 9*/
