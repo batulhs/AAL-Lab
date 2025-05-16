@@ -49,3 +49,13 @@ int main() {
     printArray(arr, m);
     return 0;
 }
+
+/*OUTPUT
+Enter size of array: 5
+Enter array elements: 5
+9
+1
+4
+2
+Sorted array is 
+1 2 4 5 9 */
